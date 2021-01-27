@@ -55,6 +55,8 @@ The Service Provider does not claim ownership of any and all assets purchased by
 
 The Service Provider shall not be held liable to any claims made against it regarding the Member's business activities and contractual obligations. The Service Provider shall not be responsible for losses incurred by the Member pertaining to the Member's business during the duration of this Contract.
 
+The Service Provider expressly is not liably for any copyright infringements of the Member.
+
 ### Governing Law
 
 This Contract shall be governed by the applicable laws of Bulgaria, where the undersigned Parties reside.
