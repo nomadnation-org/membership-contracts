@@ -61,7 +61,7 @@ The Service Provider expressly is not liably for any copyright infringements of 
 
 ### Recognition of Constitution
 
-The Member declares to understand and agree with the [Nomad Nation Constitution](https://github.com/nomadnation-org/constitution/blob/master/The%20Constitution%20of%20Nomad%20Nation.md) in its current form as of the start of the Contract as well as its evolutions in the future.
+The Member declares to understand and agree with and abide by the [Nomad Nation Constitution](https://github.com/nomadnation-org/constitution/blob/master/The%20Constitution%20of%20Nomad%20Nation.md) in its current form as of the start of the Contract as well as its evolutions in the future.
 
 ### Governing Law
 
