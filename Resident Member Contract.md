@@ -35,6 +35,10 @@ The Member agrees to pay the service fee of ninety-nine Euros (99€) every 3rd 
 
 The Member agrees to keep the Business Account sufficiently funded to enable payment of all purchases including recurring payments.
 
+### Limiting Funds
+
+The Member agrees to use the Business Account as a transactional account, not a savings account. The Member understands that this means the funds on the Business Account should be kept at a minimum.
+
 ### Deposit
 
 The Member agrees to deposit a refundable amount of one thousand and five hundred Euros (1500€) with the Service Provider upon entering the Contract as a security to cover service fee and other payments required of the Member's business in the case of insufficient funds on the Business Account.
