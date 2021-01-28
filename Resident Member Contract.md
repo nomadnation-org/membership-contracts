@@ -59,6 +59,10 @@ The Service Provider shall not be held liable to any claims made against it rega
 
 The Service Provider expressly is not liably for any copyright infringements of the Member.
 
+### Recognition of Constitution
+
+The Member declares to understand and agree with the [Nomad Nation Constitution](https://github.com/nomadnation-org/constitution/blob/master/The%20Constitution%20of%20Nomad%20Nation.md) in its current form as of the start of the Contract as well as its evolutions in the future.
+
 ### Governing Law
 
 This Contract shall be governed by the applicable laws of Bulgaria, where the undersigned Parties reside.
